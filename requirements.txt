@@ -23,3 +23,4 @@ six==1.17.0
 threadpoolctl==3.7.0
 tzdata==2026.5
 urllib3==2.8.0
+palmerpenguins==0.1.6
